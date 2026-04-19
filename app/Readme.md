@@ -1,4 +1,5 @@
-**app/
+```Bash
+app/
 ├── src/
 │ ├── server.ts # main server
 │ ├── bot.ts # telegram bot logic
@@ -10,3 +11,4 @@
 ├── tsconfig.json
 └── package.json**
 Repo:https://github.com/print-aash/Notify.git
+```
