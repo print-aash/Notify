@@ -7,6 +7,7 @@ app/
 │ └── scheduler.ts # task reminder logic
 ├── public/
 │ └── index.html # frontend
+│ └── info.html # frontend Privacy
 ├── .env
 ├── tsconfig.json
 └── package.json
