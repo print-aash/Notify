@@ -9,6 +9,6 @@ app/
 │ └── index.html # frontend
 ├── .env
 ├── tsconfig.json
-└── package.json**
+└── package.json
 Repo:https://github.com/print-aash/Notify.git
 ```
