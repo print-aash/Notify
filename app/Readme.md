@@ -1,4 +1,3 @@
-```Bash
 app/
 ├── src/
 │ ├── server.ts # main server
@@ -11,4 +10,7 @@ app/
 ├── tsconfig.json
 └── package.json
 Repo:https://github.com/print-aash/Notify.git
+
+```
+
 ```
