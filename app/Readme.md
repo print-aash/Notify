@@ -8,7 +8,8 @@ app/
 ├── public/
 │ └── index.html # frontend
 │ └── info.html # frontend Privacy
-├── .env
+│ └── auth.ts  #auth
+├── .env #env
 ├── tsconfig.json
 └── package.json
 Repo:https://github.com/print-aash/Notify.git
